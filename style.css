@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+}
+.middleBox{
+    /* size: 500px; */
+    background-color: rgb(233, 238, 243);
+    margin-top: 9rem;
+    margin-bottom: auto;
+    margin-left: 24rem;
+    margin-right: auto;
+    padding-top: 1.5rem;
+    padding-bottom:1.5rem;
+    padding-right:4rem;
+    padding-left: 1.5rem;
+    border-radius: 30px
+    
+}
+.boxAjax{
+    background-color: rgb(233, 238, 243);
+    margin-top: 10rem;
+    margin-bottom: auto;
+    margin-left: 23rem;
+    margin-right: auto;
+    padding-top: 1.5rem;
+    padding-bottom:1.5rem;
+    padding-right:4rem;
+    padding-left: 1.5rem;
+    border-radius: 30px
+    
+}
+.cards{
+    margin-top: 1.5rem;
+    margin-bottom:2rem;
+    margin-right:2rem;
+    margin-left: 4rem;
+}
+.cards2{
+    margin-top: 5px;
+    margin-bottom:2rem;
+    margin-right:2rem;
+    margin-left: 4rem;
+}
+.navButton{
+    margin-left: 5.5rem;
+}
+.navButton2{
+    margin-left: 4.2rem;
+}

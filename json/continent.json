@@ -1,0 +1,8 @@
+// continents and countries
+{
+    "Africa":["Nigeria","Ghana","Kenya","Egypt","Morocco","South Africa"],
+    "Asia":["Japan","South Korean","China","Indonesia","Mongolia","Macao","Philippines"],
+    "Europe":["Germany","Italy","France","United Kingdom","Switzerland","Greece"],
+    "America":["USA","Brazil","Argentina","Mexico","Canada","Peru"],
+    "Australia":["Tasmania","Queensland","Victoria"]
+}
